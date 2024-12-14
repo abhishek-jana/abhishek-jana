@@ -1,26 +1,30 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**abhishek-jana/abhishek-jana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD in Astrophysics with a focus on AI and Machine Learning, bringing 8+ years of experience in AI/ML research. My journey has taken me from exploring the cosmos to pioneering AI applications in privacy, security, and conservation.
 
-Here are some ideas to get you started:
+### 🎯 Key Highlights
+- 🔬 Former ML Research Intern at Colossal Biosciences, where I applied AI solutions to conservation challenges
+- 💡 Led end-to-end ML/DL projects across diverse sectors:
+  - Finance & Banking
+  - Healthcare Analytics
+  - Customer Relations
+  - E-commerce Solutions
+  - Product Innovation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Research Impact
+- 📚 Published 5 high-impact papers, including 3 first-author ML publications
+- 📊 Research work cited 300+ times by the scientific community
+- 👥 Active reviewer for leading AI/ML journals
 
-I'm a PhD in Astrophysics with a focus on AI and Machine Learning. With 8+ years of experience in AI/ML research, I've ventured beyond the stars to apply cutting-edge AI techniques in various domains including privacy, security, and conservation.
+I'm passionate about transforming complex challenges into innovative AI solutions, bridging the gap between theoretical research and practical applications.
 
-🔭 Former ML Research Intern at Colossal Biosciences, applying AI to conservation
-🧠 Completed diverse end-to-end ML and DL projects in finance, healthcare, customer relations, e-commerce, product innovation, and more
-📝 Coauthored 5 high-impact papers (3 ML papers as first author) with 300+ citations
-👀 Active reviewer for high-impact AI journals
+
+% I'm a PhD in Astrophysics with a focus on AI and Machine Learning. With 8+ years of experience in AI/ML research, I've ventured beyond the stars to apply cutting-edge AI techniques in various domains including privacy, security, and conservation.
+
+% 🔭 Former ML Research Intern at Colossal Biosciences, applying AI to conservation
+% 🧠 Completed diverse end-to-end ML and DL projects in finance, healthcare, customer relations, e-commerce, product innovation, and more
+% 📝 Coauthored 5 high-impact papers (3 ML papers as first author) with 300+ citations
+% 👀 Active reviewer for high-impact AI journals
 
 ## 🛠️ Technologies & Tools
 
