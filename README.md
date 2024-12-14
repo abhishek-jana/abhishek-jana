@@ -33,3 +33,45 @@ I'm a PhD in Astrophysics with a focus on AI and Machine Learning. With 8+ years
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+## 🔬 Research Interests & Technical Expertise
+
+- Deep Learning
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
+- MLOps
+- Generative AI
+- Data Science
+- AI Engineering
+- Cloud Computing (AWS, Azure, GCP)
+- Database Management (MongoDB, MySQL, SQL)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-jana&show_icons=true&theme=radical)
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jana&layout=compact&theme=radical)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-jana&theme=radical)
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/ajana-1992/))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([https://twitter.com/yourusername](https://x.com/AbhishekJana15))
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)]([https://medium.com/@yourusername](https://abhijana.medium.com/))
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?user=youruserid](https://scholar.google.com/citations?user=DCN3neAAAAAJ&hl=en))
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)]([https://www.researchgate.net/profile/yourprofile](https://www.researchgate.net/profile/Abhishek-Jana-5))
+
+Feel free to reach out for collaborations or just a chat about AI, ML, or the mysteries of the universe! 🌌
