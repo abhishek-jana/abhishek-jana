@@ -1,3 +1,5 @@
+# Hi there, I'm Abhishek Jana 👋
+
 ## 🚀 About Me
 
 I'm a PhD in Astrophysics with a focus on AI and Machine Learning, bringing 8+ years of experience in AI/ML research. My journey has taken me from exploring the cosmos to pioneering AI applications in privacy, security, and conservation.
@@ -17,6 +19,18 @@ I'm a PhD in Astrophysics with a focus on AI and Machine Learning, bringing 8+ y
 - 👥 Active reviewer for leading AI/ML journals
 
 I'm passionate about transforming complex challenges into innovative AI solutions and bridging the gap between theoretical research and practical applications.
+
+### 🔍 Current Focus
+I'm currently developing an innovative end-to-end Generative AI project management system that integrates multiple AI-powered functionalities:
+
+🤖 Features in Development:
+- Intelligent Project Assistant: Advanced chatbot for project coordination and task management
+- Document Intelligence: Smart PDF screening and analysis for efficient document processing
+- Multimedia Processing: AI-powered video summarization and content extraction
+- Content Generation: Automated blog writing and content creation using state-of-the-art language models
+- Workflow Automation: Streamlined project workflows enhanced by AI capabilities
+
+This system aims to revolutionize project management by leveraging cutting-edge generative AI technologies to boost productivity and streamline complex workflows.
 
 ## 🛠️ Technologies & Tools
 
@@ -62,27 +76,26 @@ I'm passionate about transforming complex challenges into innovative AI solution
   </tr>
 </table>
 
-
 ## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/abhishek-jana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-jana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jana&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-jana&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Abhishek Jana's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jana&layout=compact&langs_count=8&theme=radical" alt="Abhishek Jana's Top Languages"/>
   </a>
 </p>
 
 ## 📈 Contribution & Activity
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-jana&theme=radical" alt="Streak Stats"/>
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-jana&theme=radical" alt="Contribution Graph"/>
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-jana&theme=radical" alt="Abhishek Jana's GitHub Streak"/>
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-jana&theme=radical" alt="Abhishek Jana's Contribution Graph"/>
 </div>
 
 ## 🏆 GitHub Profile Trophy
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhishek-jana&theme=radical&row=1&column=6"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishek-jana&theme=radical&row=1&column=6" alt="Abhishek Jana's GitHub Trophies"/>
   </a>
 </p>
 
@@ -94,4 +107,5 @@ I'm passionate about transforming complex challenges into innovative AI solution
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DCN3neAAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Abhishek-Jana-5)
 
-Feel free to reach out for collaborations or just a chat about AI, ML, or the mysteries of the universe! 🌌
+## 📬 Get in Touch
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out for discussions about AI, ML, or the mysteries of the universe! 🌌
