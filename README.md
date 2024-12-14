@@ -43,17 +43,17 @@ I'm passionate about transforming complex challenges into innovative AI solution
   <tr>
     <td valign="top">
       <ul>
-        <li>Deep Learning</li>
+        <li>Data Science</li>
         <li>Machine Learning</li>
+        <li>Deep Learning</li>
         <li>Computer Vision</li>
         <li>Natural Language Processing</li>
-        <li>MLOps</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
         <li>Generative AI</li>
-        <li>Data Science</li>
+        <li>MLOps</li>
         <li>AI Engineering</li>
         <li>Cloud Computing (AWS, Azure, GCP)</li>
         <li>Database Management (SQL Server, MongoDB, MySQL)</li>
