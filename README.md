@@ -16,15 +16,7 @@ I'm a PhD in Astrophysics with a focus on AI and Machine Learning, bringing 8+ y
 - 📊 Research work cited 300+ times by the scientific community
 - 👥 Active reviewer for leading AI/ML journals
 
-I'm passionate about transforming complex challenges into innovative AI solutions, bridging the gap between theoretical research and practical applications.
-
-
-% I'm a PhD in Astrophysics with a focus on AI and Machine Learning. With 8+ years of experience in AI/ML research, I've ventured beyond the stars to apply cutting-edge AI techniques in various domains including privacy, security, and conservation.
-
-% 🔭 Former ML Research Intern at Colossal Biosciences, applying AI to conservation
-% 🧠 Completed diverse end-to-end ML and DL projects in finance, healthcare, customer relations, e-commerce, product innovation, and more
-% 📝 Coauthored 5 high-impact papers (3 ML papers as first author) with 300+ citations
-% 👀 Active reviewer for high-impact AI journals
+I'm passionate about transforming complex challenges into innovative AI solutions and bridging the gap between theoretical research and practical applications.
 
 ## 🛠️ Technologies & Tools
 
