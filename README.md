@@ -54,17 +54,31 @@ I'm a PhD in Astrophysics with a focus on AI and Machine Learning. With 8+ years
 - Cloud Computing (AWS, Azure, GCP)
 - Database Management (MongoDB, MySQL, SQL)
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-jana&show_icons=true&theme=radical)
+<p align="center">
+<a href="https://github.com/yourusername">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
-## 📈 Most Used Languages
+## 🏆 GitHub Profile Trophy
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=6"/>
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jana&layout=compact&theme=radical)
+## 📈 Contribution & Activity
 
-## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-jana&theme=radical)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark" alt="Contribution Graph"/>
+</p>
 
 ## 🤝 Connect with Me
 
