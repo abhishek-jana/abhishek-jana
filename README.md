@@ -52,22 +52,14 @@ I'm a PhD in Astrophysics with a focus on AI and Machine Learning. With 8+ years
 - Data Science
 - AI Engineering
 - Cloud Computing (AWS, Azure, GCP)
-- Database Management (MongoDB, MySQL, SQL)
+- Database Management (SQL Server, MongoDB and MySQL)
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/abhishek-jana">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-jana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jana&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</p>
-
-
-## 🏆 GitHub Profile Trophy
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhishek-jana&theme=radical&row=1&column=6"/>
   </a>
 </p>
 
@@ -78,6 +70,12 @@ I'm a PhD in Astrophysics with a focus on AI and Machine Learning. With 8+ years
   <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-jana&theme=radical" alt="Contribution Graph"/>
 </div>
 
+## 🏆 GitHub Profile Trophy
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishek-jana&theme=radical&row=1&column=6"/>
+  </a>
+</p>
 
 ## 🤝 Connect with Me
 
