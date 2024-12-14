@@ -39,16 +39,29 @@ I'm passionate about transforming complex challenges into innovative AI solution
 
 ## 🔬 Research Interests & Technical Expertise
 
-- Deep Learning
-- Machine Learning
-- Computer Vision
-- Natural Language Processing
-- MLOps
-- Generative AI
-- Data Science
-- AI Engineering
-- Cloud Computing (AWS, Azure, GCP)
-- Database Management (SQL Server, MongoDB and MySQL)
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>Deep Learning</li>
+        <li>Machine Learning</li>
+        <li>Computer Vision</li>
+        <li>Natural Language Processing</li>
+        <li>MLOps</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Generative AI</li>
+        <li>Data Science</li>
+        <li>AI Engineering</li>
+        <li>Cloud Computing (AWS, Azure, GCP)</li>
+        <li>Database Management (SQL Server, MongoDB, MySQL)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Analytics
 
