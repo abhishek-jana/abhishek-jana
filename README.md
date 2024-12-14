@@ -57,27 +57,28 @@ I'm a PhD in Astrophysics with a focus on AI and Machine Learning. With 8+ years
 ## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
-</a>
+  <a href="https://github.com/yourusername">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-jana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jana&layout=compact&langs_count=8&theme=radical"/>
+  </a>
 </p>
+
 
 ## 🏆 GitHub Profile Trophy
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=6"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishek-jana&theme=radical&row=1&column=6"/>
   </a>
 </p>
 
 ## 📈 Contribution & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-jana&theme=radical" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abhishek-jana&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 ## 🤝 Connect with Me
