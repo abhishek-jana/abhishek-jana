@@ -78,7 +78,7 @@ I'm a PhD in Astrophysics with a focus on AI and Machine Learning. With 8+ years
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=abhishek-jana&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-jana&theme=radical" alt="Contribution Graph"/>
 </p>
 
 ## 🤝 Connect with Me
