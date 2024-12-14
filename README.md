@@ -81,6 +81,16 @@ I'm a PhD in Astrophysics with a focus on AI and Machine Learning. With 8+ years
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-jana&theme=radical" alt="Contribution Graph"/>
 </p>
 
+## 📈 Contribution & Activity
+
+<p align="center">
+  <a href="https://github.com/abhishek-jana">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-jana&theme=radical" alt="Streak Stats"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-jana&theme=radical" alt="Contribution Graph"/>
+  </a>
+</p>
+
+
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/ajana-1992/))
