@@ -71,8 +71,8 @@ I am also the creator of **Personal CPA**, a privacy-first, local-first personal
 
 <p align="center">
   <a href="https://github.com/abhishek-jana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-jana&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Abhishek Jana's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jana&layout=compact&langs_count=8&theme=radical" alt="Abhishek Jana's Top Languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhishek-jana&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Abhishek Jana's GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jana&layout=compact&langs_count=8&theme=radical" alt="Abhishek Jana's Top Languages"/>
   </a>
 </p>
 
