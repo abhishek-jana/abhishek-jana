@@ -28,6 +28,18 @@ I am developing an intelligent ecosystem designed to revolutionize how complex w
 
 ---
 
+### Featured Project: Personal CPA
+
+I am also the creator of **Personal CPA**, a privacy-first, local-first personal finance and tax management application. This project leverages local LLMs to provide intelligent financial insights without your data ever leaving your machine.
+
+**Key Features:**
+*   **100% Local & Private:** All data and AI processing happens on your device.
+*   **Intelligent Document Ingestion:** Uses RAG to understand your financial documents.
+*   **Automated Categorization:** Learns to categorize your transactions automatically.
+*   **Conversational Interface:** Chat with your finances to get insights.
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
